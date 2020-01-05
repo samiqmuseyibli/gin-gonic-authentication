@@ -1,4 +1,4 @@
-# Testing the Application
+# Gin-gonic User Authentication Application
 Clone the application to your `$GOPATH/src` and then run `dep ensure` and `go run main.go`
 ```
 cd $GOPATH/src
